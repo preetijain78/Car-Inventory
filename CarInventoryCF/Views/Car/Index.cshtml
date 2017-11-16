@@ -1,0 +1,80 @@
+﻿@model IEnumerable<DAL.Car>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+
+<form class="form-horizontal" role="form">
+    <div class="form-group">
+        <label for="inputCity" class="col-lg-2 control-label">Search</label>
+        <div class="col-lg-3">
+            <input name="SearchBrand" class="form-control input-sm" placeholder="Brand" />
+        </div>        
+        <label for="inputType" class="col-lg-1 control-label"></label>
+        <div class="col-lg-3">
+            <input name="SearchModel" class="form-control input-sm" placeholder="Model" />
+            
+        </div>
+        <button type="submit" class="btn btn-success">Search</button>
+        <button type="submit" class="btn btn-sm">All</button>
+    </div>
+</form>
+
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.New)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Year)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.New)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CarId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CarId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.CarId }, new { onclick = "return confirm('Are you sure to delete ?');" })
+
+            
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,10 @@
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\DAL.dll.config
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\DAL.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\DAL.pdb
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\EntityFramework.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\EntityFramework.xml
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\obj\Debug\DAL.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\obj\Debug\DAL.pdb
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

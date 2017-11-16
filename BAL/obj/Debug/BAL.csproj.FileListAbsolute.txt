@@ -1,0 +1,17 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\BAL.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\BAL.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\DAL.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\Models.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\EntityFramework.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\DAL.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\Models.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\EntityFramework.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\obj\Debug\BAL.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\obj\Debug\BAL.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\BAL.dll.config
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\BAL\obj\Debug\BAL.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\BAL\obj\Debug\BAL.pdb
