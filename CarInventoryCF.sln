@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarInventoryCF", "CarInvent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E40EC626-6365-4DA6-B238-0856EF74E762}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{8BD3E051-FBB7-4E99-A6E3-08A0B2B9EFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{F632B90A-9ED7-4BC6-A304-92E2E24DC87C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E40EC626-6365-4DA6-B238-0856EF74E762}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E40EC626-6365-4DA6-B238-0856EF74E762}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E40EC626-6365-4DA6-B238-0856EF74E762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD3E051-FBB7-4E99-A6E3-08A0B2B9EFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD3E051-FBB7-4E99-A6E3-08A0B2B9EFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD3E051-FBB7-4E99-A6E3-08A0B2B9EFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD3E051-FBB7-4E99-A6E3-08A0B2B9EFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F632B90A-9ED7-4BC6-A304-92E2E24DC87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F632B90A-9ED7-4BC6-A304-92E2E24DC87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F632B90A-9ED7-4BC6-A304-92E2E24DC87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F632B90A-9ED7-4BC6-A304-92E2E24DC87C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

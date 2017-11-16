@@ -1,0 +1,10 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\Models\bin\Debug\Models.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\Models\bin\Debug\Models.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\Models\obj\Debug\Models.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\Models\obj\Debug\Models.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVC_RepositoryDP\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\Models\bin\Debug\Models.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\Models\bin\Debug\Models.pdb
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\Models\obj\Debug\Models.dll
+D:\Projects\CarInventoryCodeFirst\CarInventoryCF\Models\obj\Debug\Models.pdb
